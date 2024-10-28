@@ -1,0 +1,2 @@
+documentation.png -> converted_icons\documentation.ico
+github1.png -> converted_icons\github1.ico
